@@ -6,6 +6,19 @@
   <packaging>war</packaging>
   <name>portfolio-jsp</name>
   <description>portfolio jsp jdev</description>
+  
+  <dependencies>
+
+
+  <dependency>
+    <groupId>org.postgresql</groupId>
+    <artifactId>postgresql</artifactId>
+    <version>9.4.1212</version>
+</dependency>
+
+
+</dependencies>
+
   <build>
     <plugins>
       <plugin>
