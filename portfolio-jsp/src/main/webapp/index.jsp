@@ -41,10 +41,11 @@ border-color: #f5c2c7
 <h1>Portfólio JSP</h1>
 
 
-<form action="ServletLogin" method="post" class="row g-3 needs-validation" novalidate>
+<form action="<%=request.getContextPath() %>/ServletLogin" method="post" class="row g-3 needs-validation" novalidate>
 <input type="hidden" value="<%= request.getParameter("url") %>" name=url>
 
 	<div class="col-md-6">
+		
 		<label class="form-label">Login</label>
 		<input class="form-control" name="login" type="text" required="required">
 			<div class="invalid-feedback">
