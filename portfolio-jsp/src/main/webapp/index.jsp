@@ -17,10 +17,10 @@ right: 33%
 }
 
 h1{
-position: absolute;
+position: fixed;
 top: 30%;
-left: 43%;
-
+left: 33%;
+right: 33%
 }
 
 h5{
