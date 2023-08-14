@@ -9,4 +9,4 @@ Tecnologias usadas no Projeto:
 5. CRUD
 6. Relacionamento 1 para muitos
 7. Paginação de dados e carregamento por demanda
-8. Bootstrap (*em processo de aprendizagem do framework 9. Angular para dar continuidade de uma forma menos restrita o projeto em relação ao Front*)
+8. Bootstrap (*em processo de aprendizagem do framework Angular para dar continuidade de uma forma menos restrita o projeto em relação ao Front*)
