@@ -1,6 +1,4 @@
-# portfolio-jsp
-
-Projeto em construção!
+# Projeto em construção!
 
 Tecnologias usadas no Projeto:
 
